@@ -5,7 +5,7 @@
 Comment les différentes filières de production d'électricité contribuent-elles à l'autonomie du réseau électrique français dans un contexte de transition énergétique ?
 
 ## Description
-Projet de Data Science réalisé en groupe dans le cadre d'une formation Data Analyst.  
+Projet de Data Science réalisé en groupe dans le cadre de la formation Data Analyst avec Liora en partenariat avec École des Mines - Paris. 
 Analyse d'un jeu de données RTE de 2,5 millions de lignes sur la production et consommation électrique française.
 
 ## Stack technique
